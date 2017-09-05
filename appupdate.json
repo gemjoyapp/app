@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.5.0",
-  "latestVersionCode": 5,
+  "latestVersionCode": 6,
   "url": "https://github.com/javiersantos/AppUpdater/rlse",
   "releaseNotes": [
     "- Daily Spin amount is increased.",
