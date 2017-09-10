@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.6.0",
-  "latestVersionCode": 7,
+  "latestVersion": "1.8.0",
+  "latestVersionCode": 9,
   "url": "https://github.com/javiersantos/AppUpdater/rlse",
   "releaseNotes": [
-    "- Now you can redeem $1 reward",
     "- Bug fix"
     
   ]
