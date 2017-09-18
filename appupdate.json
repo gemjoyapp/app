@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.8.0",
-  "latestVersionCode": 9,
+  "latestVersion": "1.9.0",
+  "latestVersionCode": 10,
   "url": "https://github.com/javiersantos/AppUpdater/rlse",
   "releaseNotes": [
-    "- Bug fix"
+    "- Bug fix",
+    "- Lucky Draw"
     
   ]
 }
