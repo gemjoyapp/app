@@ -1,11 +1,9 @@
 {
-  "latestVersion": "2.2.0",
-  "latestVersionCode": 12,
+  "latestVersion": "2.3.0",
+  "latestVersionCode": 13,
   "url": "https://github.com/javiersantos/AppUpdater/rlse",
   "releaseNotes": [
     "- Bug fix",
-    "- Spin limit increase again",
-    "Sorry for mutltiple update"
-    
+    "- New Offers added"    
   ]
 }
