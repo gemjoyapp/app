@@ -1,9 +1,8 @@
 {
-  "latestVersion": "2.7.0",
-  "latestVersionCode": 17,
+  "latestVersion": "2.8.0",
+  "latestVersionCode": 18,
   "url": "https://github.com/javiersantos/AppUpdater/rlse",
   "releaseNotes": [
-    "- Bug fix",
-    "- Share Apps & Earn points"    
+    "- $1 reward bug fix"
   ]
 }
