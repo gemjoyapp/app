@@ -1,9 +1,8 @@
 {
   "latestVersion": "2.8.0",
-  "latestVersionCode": 19,
+  "latestVersionCode": 22,
   "url": "https://github.com/javiersantos/AppUpdater/rlse",
   "releaseNotes": [
-    "- Watch Video & Earn points",
-    "- Spin limit increased."  
+    "- Bug fix."  
   ]
 }
