@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.14.0",
-  "latestVersionCode": 24,
+  "latestVersion": "2.15.0",
+  "latestVersionCode": 25,
   "url": "https://github.com/javiersantos/AppUpdater/rlse",
   "releaseNotes": [
-    "- Bug fix.",
-    "- New OfferWall."
+    "- New Design.",
+    "- Bug fix"
   ]
 }
